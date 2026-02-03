@@ -6,7 +6,7 @@ Interactive Bluetooth Low Energy (BLE) scanner with advanced filtering capabilit
 ![Framework](https://img.shields.io/badge/framework-Arduino-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-## 🎯 Features
+## Features
 
 ### Core Capabilities
 - Interactive Command Interface** - Full menu-driven control
@@ -25,7 +25,7 @@ Interactive Bluetooth Low Energy (BLE) scanner with advanced filtering capabilit
 - RSSI tracking with significant change detection
 - Rolling Proximity Identifier (RPI) change detection for GAEN beacons
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Hardware Requirements](#hardware-requirements)
 - [Quick Start](#quick-start)
@@ -37,7 +37,7 @@ Interactive Bluetooth Low Energy (BLE) scanner with advanced filtering capabilit
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
 
-## 🔧 Hardware Requirements
+## Hardware Requirements
 
 ### Supported Boards
 
@@ -79,7 +79,7 @@ uf2conv -c -f 0xADA52840 -o firmware.uf2 .pio/build/nrf5<project>/firmware.hex
 pyserial-miniterm /dev/tty.usbmodem1114401 115200 --raw -f direct 
 ```
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Basic Commands
 
@@ -362,7 +362,7 @@ Enter value: 30:AE:A4  # ESP32
 > a 30           # Monitor
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Upload Issues
 
