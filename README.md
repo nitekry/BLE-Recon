@@ -1,4 +1,4 @@
-# Professional BLE Scanner for nRF52840
+# BLE Scanner for nRF52840
 
 Interactive Bluetooth Low Energy (BLE) scanner with advanced filtering capabilities, designed for security research and recon.
 
