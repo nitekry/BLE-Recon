@@ -1,0 +1,31 @@
+# Whitelist Configuration
+# Only devices matching these patterns will be shown
+# Format: One entry per line, # for comments
+# Matching is case-insensitive
+
+[OUI]
+# MAC address prefixes (OUI - first 3 bytes)
+# Example: Show only Apple devices
+# A4:CF:12
+# 4C:57:CA
+# 00:00:00
+
+[NAME]
+# Device name patterns (substring matching)
+# Example: Show devices with "sensor" or "esp32" in name
+# SENSOR
+# ESP32
+# ARDUINO
+
+[UUID]
+# Service UUID patterns
+# Example: Show only GAEN beacons
+# FD6F
+# 180A
+# 180F
+
+[PAYLOAD]
+# Hex payload patterns (substring matching in raw payload)
+# Example: Show devices with Apple manufacturer data
+# 4C00
+# FF01
