@@ -6,6 +6,8 @@ Interactive Bluetooth Low Energy (BLE) scanner with advanced filtering capabilit
 ![Framework](https://img.shields.io/badge/framework-Arduino-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
+<img src="[image-url](https://github.com/nitekry/BLE-Recon/blob/main/other_files/covert-device.jpeg )" alt="Tiny Covert Device" width="200" height="200">
+
 ## Features
 
 ### Core Capabilities
