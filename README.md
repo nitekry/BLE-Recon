@@ -61,8 +61,8 @@ Interactive Bluetooth Low Energy (BLE) scanner with advanced filtering capabilit
 I always suggest using venv.
 
 ```bash
-gitclone https://github.com/XXXX
-cd xxxx
+git clone https://github.com/XXXX](https://github.com/nitekry/BLE-Recon.git
+cd BLE-Recon
 python3 -m venv venv
 source venv/bin/activate
 pip install platformio
