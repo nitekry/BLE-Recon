@@ -28,7 +28,7 @@ Interactive Bluetooth Low Energy (BLE) scanner with advanced filtering capabilit
 ## Table of Contents
 
 - [Hardware Requirements](#hardware-requirements)
-- [Installation](#installation)
+- [Installation](#setup)
 - [Usage Guide](#usage-guide)
 - [Command Reference](#command-reference)
 - [Filtering System](#filtering-system)
